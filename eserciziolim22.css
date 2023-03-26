@@ -1,0 +1,81 @@
+
+
+body{
+    background-image: url("nuova.jpg");
+    
+}
+
+.logo{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:20%;
+    height:10%;
+}
+
+.titolo{
+    color:yellowgreen;
+}
+.container{
+    width: 1000px;
+    margin:auto;
+}
+
+.rettangolo{
+    margin-left: 400px;
+    margin-right: 400px;
+    
+}
+div.rettangolo{
+    background-color: black;
+    opacity: 0.7;
+    border-radius:4%;
+}
+.sinistra{
+    width:55%;
+    display: inline-block;
+}
+
+.comandi{
+    background-color:yellowgreen;
+    height:30px;
+}
+
+.statobatteria1{
+    background-color:yellow;
+    width: 200px;
+    border-radius: 5px;
+    height:19px;
+}
+.giall{
+    color: yellow;
+}
+.statobatteria2{
+    background-color:rgb(181, 28, 28);
+    height:19px;
+    width: 150px;
+    border-radius: 5px;
+
+}
+.titoletti{
+    color: white;
+    dispaly:inline-block;
+    font-size: large;
+}
+
+.statobatteria3{
+    background-color:green;
+    height:19px;
+    width:300px;
+
+    border-radius: 5px;
+}
+.rosso{
+    color:rgb(181, 28, 28);
+}
+.verde{
+    color:green;
+}
+.minitesto{
+    color:white;
+}
